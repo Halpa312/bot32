@@ -1,1 +1,1 @@
-Create install.sh
+Nmp install 
